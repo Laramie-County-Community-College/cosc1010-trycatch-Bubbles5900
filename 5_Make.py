@@ -47,3 +47,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# AI was used to help write the code, here is that citation. 
+# OpenAI. (2025). ChatGPT (GPT-5) [Large language model]. https://openai.com/chatgpt
